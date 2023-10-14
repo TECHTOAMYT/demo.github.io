@@ -1,0 +1,31 @@
+{
+  "name": "AM industry's",
+  "description": "Explore Now You'ress",
+  "short_name": "TECHTOAM",
+  "start_url": "https://www.techtoam.online",
+  "scope": "techtoam.online",
+  "lang": "en-GB",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "https://www.techtoam.online/logo.png",
+      "type": "logo.png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://www.techtoam.online/sc.png",
+      "type": "sc.png"
+    },
+    {
+      "src": "https://www.techtoam.online/sc2.png",
+      "type": "sc2.png"
+    },
+    {
+      "src": "https://www.techtoam.online/sc3.png",
+      "type": "sc3.png"
+    }
+  ],
+  "prefer_related_applications": true
+}
+
