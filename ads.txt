@@ -1,0 +1,74 @@
+#ADS.TXT
+#ads.txt
+#Google_Adsense
+
+PUBLISER ID
+
+google.com, pub-6700613757323923, DIRECT, f08c47fec0942fa0
+
+google.com, pub-6700613757323923, DIRECT, f08c47fec0942fa0
+
+google.com
+
+
+pub-670061375732392
+
+DIRECT
+google.com, pub-6700613757323923, DIRECT, f08c47fec0942fa0
+
+Website : https://www.techtoam.online
+
+Enquiry : techtoambusiness@gmail.com
+
+#AM industry's
+
+#TECH TO AM
+
+
+#Youtube
+
+https://youtube.com/@TECHTOAM
+
+
+Domain : techtoam.online
+
+google.com, pub-6700613757323923, DIRECT, f08c47fec0942fa0
+
+Adsense
+
+
+Script
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6700613757323923"
+     crossorigin="anonymous"></script>
+    
+   
+  
+  Meta
+ 
+
+<meta name="google-adsense-account" content="ca-pub-6700613757323923">
+
+
+
+
+www.techtoam.online
+
+
+ASHBIN P AJEESH
+
+
+THIS WEBSITE COPYRIGHTED BY AM industry
+
+FOR MORE ENQUIRY TO VIST : www.techtoam.online
+
+TECHTOAM IS A MAIN NAME
+
+
+<meta name="google-adsense-account" content="ca-pub-6700613757323923">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6700613757323923"
+     crossorigin="anonymous"></script>
+     google.com, pub-6700613757323923, DIRECT, f08c47fec0942fa0
+    
+    
