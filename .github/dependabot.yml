@@ -14,3 +14,11 @@ THIS REPOSITORY IS PRIVATE DON'T COPY IT, COPYRIGHTED BY AM INDUSTRY'S
 
 <iframe width="420" height="345" src="https://www.techtoam.online">
 </iframe>
+
+<button class = "custom-btn btn-12"> <a onclick="JoinMe()"><span>Thanks For Joining ♥️</span><span> Join now </span></button>
+
+<script>
+function JoinMe() {
+  location.replace("https://bit.ly/__join_now__")
+}
+</script>
